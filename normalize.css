@@ -347,3 +347,14 @@ template {
 [hidden] {
   display: none;
 }
+
+#hero_div2 {
+  background-image: url("Project.jpg");
+  background-size: 1000px 400px;
+  color: #fff;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
